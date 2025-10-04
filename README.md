@@ -10,7 +10,6 @@ This is a **JavaFX project built with Maven**. It is a **GUI-based image compres
 * **Compression Slider** – Adjust compression quality between **0%–100%**.
 * **Live Preview** – Instantly see the effect of compression before saving.
 * **File Size Display** – Compare original and compressed sizes in real time.
-* **Recently Compressed Thumbnails** – Keeps track of the last 4 compressed images.
 * **Save Option** – Export the compressed image to your computer.
 
 ---
