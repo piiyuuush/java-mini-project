@@ -1,5 +1,5 @@
 package com.example.imgcompressor;
-
+// importing required libraries 
 import java.awt.image.BufferedImage;
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
